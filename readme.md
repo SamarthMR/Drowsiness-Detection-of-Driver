@@ -1,4 +1,4 @@
-# Drowsiness Detection OpenCV [![](https://github.com/SamarthMR/Drowsiness-Detection-of-Driver/edit/v3.6-drowsy/readme.md)
+# Drowsiness Detection OpenCV ![](https://github.com/SamarthMR/Drowsiness-Detection-of-Driver/edit/v3.6-drowsy/readme.md)
 This code can detect your eyes and alert when the user is drowsy.
 
 ## Applications
