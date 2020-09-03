@@ -6,7 +6,7 @@ This can be used by riders who tend to drive for a longer period of time that ma
 
 
 ### Code Requirements
-The example code is in Python ([version 2.7](https://www.python.org/download/releases/2.7/) or higher will work). 
+The example code is in Python ([version 3.6](https://www.python.org/download/releases/2.7/) or higher will work). 
 
 ### Dependencies
 
